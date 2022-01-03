@@ -1,0 +1,6 @@
+Influencing the debugger programmatically
+
+Debug."something something"
+Debugger."something something"
+
+Add [DebuggerDisplay("First Name = {FirstName} Last Name = {LastName}")] for better data overview while debugging.
