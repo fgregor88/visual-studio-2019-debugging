@@ -7,4 +7,6 @@ Add [DebuggerDisplay("First Name = {FirstName} Last Name = {LastName}")] for bet
 
 You can add actions to break points turning them into trace points. You can continue execution without stoping. Right click on break point and select "Actions".
 
-Degub -> Windows -> Call stacks opens the call stack window where you can explore called functions.
+Debug -> Windows -> Call stacks opens the call stack window where you can explore called functions.
+
+Debug -> Options -> Enable Source Link support (enable this to allow VS to download source code for external nuget packages).
