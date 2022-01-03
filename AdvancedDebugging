@@ -4,3 +4,5 @@ Debug."something something"
 Debugger."something something"
 
 Add [DebuggerDisplay("First Name = {FirstName} Last Name = {LastName}")] for better data overview while debugging.
+
+You can add actions to break points turning them into trace points. You can continue execution without stoping. Right click on break point and select "Actions".
