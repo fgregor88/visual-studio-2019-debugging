@@ -10,3 +10,7 @@ You can add actions to break points turning them into trace points. You can cont
 Debug -> Windows -> Call stacks opens the call stack window where you can explore called functions.
 
 Debug -> Options -> Enable Source Link support (enable this to allow VS to download source code for external nuget packages).
+
+You can start your app without the debugger attached and attech it later. You can attach it only to a certain process (for example frontend javascript, and not to he C# backend).
+
+You can attach to a remote process.
