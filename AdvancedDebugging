@@ -14,3 +14,5 @@ Debug -> Options -> Enable Source Link support (enable this to allow VS to downl
 You can start your app without the debugger attached and attech it later. You can attach it only to a certain process (for example frontend javascript, and not to he C# backend).
 
 You can attach to a remote process.
+
+You can attach to a snapshot and inspect data.
